@@ -1,0 +1,4 @@
+applications:
+  - name: openapi-petstore
+    memory: 1G
+    buildpack: https://github.com/cloudfoundry/java-buildpack.git
